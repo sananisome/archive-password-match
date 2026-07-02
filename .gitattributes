@@ -1,0 +1,2 @@
+# 保持原始字节:bat/ps1 依赖 CRLF 与 BOM,禁止 git 做换行转换
+* -text

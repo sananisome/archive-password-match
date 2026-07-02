@@ -1,0 +1,9 @@
+# 本地隐私数据,不进仓库
+passwords.csv
+history.csv
+
+# 本机配置(如 7z-path.local.txt)
+*.local.txt
+
+# 本地测试产物
+dragtest/
