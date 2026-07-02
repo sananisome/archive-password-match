@@ -107,7 +107,7 @@ flowchart TD
 | `$ScanExtensions` | zip/7z/rar/tar/gz/bz2/xz/tgz/iso/cab | 扫描目录时认哪些扩展名(分卷命名总是会被识别) |
 
 **7-Zip 不在默认位置?** 在脚本同目录新建 `7z-path.local.txt`,第一行写 7z.exe 完整路径,
-例如 `D:\Tools\7-Zip\7z.exe`。该文件已被 gitignore,不会被提交。
+例如 `D:\Tools\7-Zip\7z.exe`。
 
 ## 隐私说明
 
